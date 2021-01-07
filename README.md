@@ -6,4 +6,8 @@
 - sklearn.datasets.load_breast_cancer
 
 ## model
-- sklearn.
+- decision tree
+- random forest
+- SVM
+- logistic regression
+- +) stochastic gradient descent
