@@ -10,4 +10,4 @@
 - random forest
 - SVM
 - logistic regression
-- +) stochastic gradient descent
+- +) stochastic gradient descent classifier
